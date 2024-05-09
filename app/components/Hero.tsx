@@ -5,7 +5,6 @@ import HeroImage from "../../public/assets/Imagee.png";
 import Google from "../../public/assets/Google.svg";
 import Slack from "../../public/assets/Slack.svg";
 import Truspilot from "../../public/assets/Trustpilot.svg";
-import Cnn from "../../public/assets/CNN.svg";
 import Cluth from "../../public/assets/Clutch.svg";
 
 export function Hero() {
