@@ -9,15 +9,17 @@ import { Pricing } from "./components/Pricing";
 export default function Home() {
   return (
     <>
+      <div className="bg-[#000000]">
       <Navbar />
       <Hero />
-      <div className="px-[20px] lg:container lg:px-20 mx-auto">
+     {/* <div className="px-[20px] lg:container lg:px-20 mx-auto">
         <Features />
         <Faq />
         <Pricing />
         <Cta />
         <Footer />
-      </div>
+  </div> */}
+  </div>
     </>
   );
 }
